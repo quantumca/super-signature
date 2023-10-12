@@ -10,10 +10,12 @@ require (
 	github.com/jinzhu/gorm v1.9.12
 	github.com/robfig/cron/v3 v3.0.0
 	github.com/satori/go.uuid v1.2.0
+	github.com/smartystreets/goconvey v1.8.1 // indirect
 	github.com/swaggo/files v0.0.0-20190704085106-630677cd5c14
 	github.com/swaggo/gin-swagger v1.2.0
 	github.com/swaggo/swag v1.6.5
 	github.com/unrolled/secure v1.0.7
-	github.com/valyala/fasthttp v1.12.0
+	github.com/valyala/fasthttp v1.34.0
+	gopkg.in/ini.v1 v1.67.0 // indirect
 	howett.net/plist v0.0.0-20200419221736-3b63eb3a43b5
 )
